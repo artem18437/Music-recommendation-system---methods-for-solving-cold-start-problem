@@ -63,3 +63,15 @@ tempo - темп в BPM (float, 0 - 244)
 ```bash
 pip install pandas numpy scikit-learn
 ```
+
+
+## Запуск программы
+macOS / Linux
+```python
+python3 music_recommendation.py
+```
+
+Windows
+```python
+python music_recommendation.py
+```
