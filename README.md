@@ -60,6 +60,6 @@ tempo - темп в BPM (float, 0 - 244)
 
 ## Установка зависимостей
 
-\```bash
+```bash
 pip install pandas numpy scikit-learn
-\```
+```
