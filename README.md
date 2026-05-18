@@ -54,3 +54,5 @@ popularity - популярность трека (int, 0 - 100)
 speechiness - насколько трек состоит из разговорной речи (float, 0.0 - 1.0)
 
 tempo - темп в BPM (float, 0 - 244)
+
+*Ссылка на исходный датасет из Kaggle: https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/input*
