@@ -56,3 +56,10 @@ speechiness - насколько трек состоит из разговорн
 tempo - темп в BPM (float, 0 - 244)
 
 *Ссылка на исходный датасет из Kaggle: https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/input*
+
+
+## Установка зависимостей
+
+\```bash
+pip install pandas numpy scikit-learn
+\```
