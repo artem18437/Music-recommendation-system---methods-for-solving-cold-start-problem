@@ -75,3 +75,8 @@ Windows
 ```python
 python music_recommendation.py
 ```
+### Анализ кластеризации музыки
+```python
+python3 cluster_analysis.py
+```
+
