@@ -14,6 +14,10 @@ music_recommendation.py - основной код системы рекомен�
 
 data.csv - датасет c данными о музыке (см. ниже)
 
+cluster_analysis.py - дополнительный код для анализа кластеризации
+
+DBSCAN.png, Elbow Method.png, Optimal K.png - результаты анализа кластеров
+
 
 ## Описание датасета
 
